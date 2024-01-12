@@ -103,3 +103,5 @@ local properties = {
 
     CopyPropertiesToClipboard(guiObject.Name, guiObject.ClassName, propertiesString) 
 end
+
+ 
